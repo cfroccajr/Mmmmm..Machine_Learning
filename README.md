@@ -19,6 +19,6 @@ Here is a temporary edit!
 
 Demonstration file for the Multivariable Math class will be in a folder labelled Class_Files and any labs assigned will be in Lab_Files.  There will also be a folder for lecture notes as they are developed.
 
-
+Jast for test
 
 
